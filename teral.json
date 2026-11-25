@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/teraldev/cli/releases/download/v0.1.0/teral_0.1.0_windows_amd64.zip",
+            "bin": [
+                "teral.exe"
+            ],
+            "hash": "ae6c8a75114a73056237dc13fa1e0dc5f79c78be43af6e69b1e03822a46bd8b2"
+        },
+        "arm64": {
+            "url": "https://github.com/teraldev/cli/releases/download/v0.1.0/teral_0.1.0_windows_arm64.zip",
+            "bin": [
+                "teral.exe"
+            ],
+            "hash": "7a2c17de91eb0e9510b13f116d4f017b317a51d8ac83fa7a932b6a4a34450832"
+        }
+    },
+    "homepage": "https://teral.dev",
+    "license": "Apache-2.0",
+    "description": "Deploy and manage apps on Teral"
+}
